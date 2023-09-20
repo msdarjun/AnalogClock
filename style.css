@@ -36,7 +36,7 @@ body{
     inset: 12px;
     text-align: center;
 }
-
+/* to ccheck the code */
 .clock span b{
     transform: rotate(calc(-30deg * var(--i)));
     display: inline-block;
